@@ -1,6 +1,6 @@
 ##CodeBook
 
-####The following is gathered verbatim from the dataset included README.txt:
+####The following is gathered verbatim (with some additions under "Variables") from the dataset included README.txt:
 The dataset includes the following files:
 =========================================
 
